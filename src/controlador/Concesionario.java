@@ -2,15 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package persistencia;
-
-import java.util.ArrayList;
-import model.Vehiculo;
+package controlador;
 
 /**
  *
  * @author Natha
  */
-public class FicheroVehiculos {
-    ArrayList<Vehiculo> listaVehiculos = new ArrayList<>();
+public class Concesionario {
+    
 }
